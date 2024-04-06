@@ -1,8 +1,9 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Loops {
     public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);
+        Scanner teclado = new Scanner(System.in).useLocale(Locale.US);
         double nota = 0;
         double mediaEvaluaciones = 0;
         double suma = 0;
