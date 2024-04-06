@@ -11,6 +11,5 @@ public class Lectura {
         double nota = teclado.nextDouble();
         System.out.println("----------");
         System.out.println("La película: " + pelicula + ", lanzada en " + fechaDeLanzamiento + " tiene " + nota + " de nota.");
-
     }
 }
