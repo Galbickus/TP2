@@ -15,6 +15,7 @@ public class DesafioTemperatura {
 
         int temperaturaEnFahrenheitEntero = (int) temperaturaEnFahrenheit;
         System.out.println("La temperatura en Fahrenheit entera es: " + temperaturaEnFahrenheitEntero);
+
     }
 
 }
