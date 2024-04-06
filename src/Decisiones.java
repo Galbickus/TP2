@@ -2,7 +2,7 @@ public class Decisiones {
 
     public static void main(String[] args) {
         int fechaDeLanzamiento = 1999;
-        boolean incluidoEnElPlan = false;
+        boolean incluidoEnElPlan = true;
         double nota = 8.2;
         String tipoPlan = "plus";
 
