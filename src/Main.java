@@ -21,7 +21,7 @@ public class Main {
         System.out.println("Estrellas para esta película: " + clasificacion);
 
 
-        double gradosCelsius = 9;
+        double gradosCelsius = 30.4;
         double gradosFharenheit = gradosCelsius * 1.8 + 32;
 
         System.out.println(gradosCelsius + " grados Celsius equivalen a " + gradosFharenheit + " grados Fharenhait.");
