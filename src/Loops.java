@@ -20,7 +20,8 @@ public class Loops {
             suma = suma + nota;
         }
 
-        mediaEvaluaciones = suma/ cantDePelisAEvaluar;
+        mediaEvaluaciones = suma / cantDePelisAEvaluar;
+        System.out.println("-----Evaluación de la peli-----");
         System.out.println("El promedio de evaluación de la peli es: " + mediaEvaluaciones + ".");
     }
 }
