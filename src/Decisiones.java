@@ -11,6 +11,7 @@ public class Decisiones {
         }else{
             System.out.println("Películas retro que aún vale la pena ver");
         }
+
         if (incluidoEnElPlan && tipoPlan == "plus"){
             System.out.println("Disfrute de su película");
         }else {
